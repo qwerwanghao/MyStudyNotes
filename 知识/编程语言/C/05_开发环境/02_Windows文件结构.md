@@ -1,3 +1,21 @@
+---
+title: Windows 平台程序常见文件夹和文件
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C
+- 开发环境
+source: []
+related:
+- C语言学习笔记
+- 编程语言学习笔记
+- Visual Studio 创建工程指南
+- C语言调试技巧总结
+---
+
 # Windows 平台程序常见文件夹和文件
 
 在 Windows 平台上，有许多常见的文件类型和文件夹，它们在程序开发和运行中扮演重要角色。以下是一些常见文件类型及其说明：
@@ -68,3 +86,11 @@
   - Java 程序通过 JNI 可以调用本地库，但 Java 本身通过虚拟机运行，不直接涉及这些库。
 
 这些文件和文件夹在 Windows 平台上是程序开发和运行的重要组成部分，了解它们的用途和特性可以帮助你更好地管理和维护你的项目。
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [C语言学习笔记](../C.md)
+- [编程语言学习笔记](../../编程语言.md)
+- [Visual Studio 创建工程指南](01_Visual_Studio指南.md)
+- [C语言调试技巧总结](03_调试技巧.md)
+<!-- AUTO-RELATED-END -->

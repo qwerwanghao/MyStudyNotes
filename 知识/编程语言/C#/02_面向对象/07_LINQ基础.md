@@ -1,3 +1,20 @@
+---
+title: LINQ基础
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C#
+- 面向对象
+source: []
+related:
+- C# 面向对象编程
+- C# 编程语言学习笔记
+- 泛型
+---
+
 # LINQ基础
 
 ## LINQ查询语法
@@ -261,3 +278,10 @@ public class GameManager
         return items.Shuffle();
     }
 }
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [C# 面向对象编程](02_面向对象.md)
+- [C# 编程语言学习笔记](<../C#.md>)
+- [泛型](06_泛型.md)
+<!-- AUTO-RELATED-END -->

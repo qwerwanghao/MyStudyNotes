@@ -1,3 +1,20 @@
+---
+title: Visual Studio 创建工程指南
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C
+- 开发环境
+source: []
+related:
+- C语言学习笔记
+- 编程语言学习笔记
+- Windows 平台程序常见文件夹和文件
+---
+
 # Visual Studio 创建工程指南
 
 在使用 Visual Studio 创建和管理工程时，有几个重要的注意事项，以确保项目结构清晰，易于维护和管理。
@@ -36,3 +53,10 @@
 - **运行时目录**: `bin`
 
 这种结构有助于保持项目的整洁性，简化管理和维护工作。
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [C语言学习笔记](../C.md)
+- [编程语言学习笔记](../../编程语言.md)
+- [Windows 平台程序常见文件夹和文件](02_Windows文件结构.md)
+<!-- AUTO-RELATED-END -->

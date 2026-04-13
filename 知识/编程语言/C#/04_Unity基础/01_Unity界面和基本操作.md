@@ -1,3 +1,20 @@
+---
+title: Unity界面和基本操作
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C#
+- Unity基础
+source: []
+related:
+- Unity游戏开发基础
+- C# 编程语言学习笔记
+- 游戏对象和组件
+---
+
 # Unity界面和基本操作
 
 ## 主要界面区域
@@ -230,3 +247,10 @@ public class MyComponentEditor : Editor
    - Input Controls
    - Input Bindings
    - Input Processors
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [Unity游戏开发基础](04_Unity基础.md)
+- [C# 编程语言学习笔记](<../C#.md>)
+- [游戏对象和组件](02_游戏对象和组件.md)
+<!-- AUTO-RELATED-END -->

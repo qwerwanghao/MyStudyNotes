@@ -1,3 +1,21 @@
+---
+title: Transform和坐标系统
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C#
+- Unity基础
+source: []
+related:
+- Unity游戏开发基础
+- C# 编程语言学习笔记
+- 游戏对象和组件
+- 预制体系统
+---
+
 # Transform和坐标系统
 
 ## 坐标系统基础
@@ -284,3 +302,11 @@ public static class TransformExtensions
         }
     }
 }
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [Unity游戏开发基础](04_Unity基础.md)
+- [C# 编程语言学习笔记](<../C#.md>)
+- [游戏对象和组件](02_游戏对象和组件.md)
+- [预制体系统](04_预制体系统.md)
+<!-- AUTO-RELATED-END -->

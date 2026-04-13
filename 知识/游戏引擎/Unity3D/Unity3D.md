@@ -1,3 +1,19 @@
+---
+title: Unity 开发笔记
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 游戏引擎
+- Unity3D
+source: []
+related:
+- 游戏引擎笔记
+- 知识库
+- 优化笔记
+---
+
 # Unity 开发笔记
 
 > Unity游戏开发学习与实战总结
@@ -120,14 +136,14 @@
 ## 相关技术栈
 
 ### 1. 编程语言
-- [C#基础知识](<../../编程语言/C#/01_基础知识/README.md>)
-- [C#面向对象](<../../编程语言/C#/02_面向对象/README.md>)
-- [C#高级特性](<../../编程语言/C#/03_高级特性/README.md>)
+- [C#基础知识](<../../编程语言/C#/01_基础知识/MyStudyNotes.md>)
+- [C#面向对象](<../../编程语言/C#/02_面向对象/MyStudyNotes.md>)
+- [C#高级特性](<../../编程语言/C#/03_高级特性/MyStudyNotes.md>)
 
 ### 2. 游戏开发
-- [Unity基础](<../../编程语言/C#/04_Unity基础/README.md>)
-- [Unity进阶](<../../编程语言/C#/05_Unity进阶/README.md>)
-- [游戏开发实践](<../../编程语言/C#/06_大型游戏开发实践/README.md>)
+- [Unity基础](<../../编程语言/C#/04_Unity基础/MyStudyNotes.md>)
+- [Unity进阶](<../../编程语言/C#/05_Unity进阶/MyStudyNotes.md>)
+- [游戏开发实践](<../../编程语言/C#/06_大型游戏开发实践/MyStudyNotes.md>)
 
 ## 注意事项
 
@@ -144,3 +160,10 @@
 - [ ] ECS架构应用
 - [ ] 热更新方案
 - [ ] AI与寻路系统
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [游戏引擎笔记](../游戏引擎.md)
+- [知识库](../../知识.md)
+- [优化笔记](性能优化笔记.md)
+<!-- AUTO-RELATED-END -->

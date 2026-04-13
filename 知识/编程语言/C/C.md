@@ -1,3 +1,18 @@
+---
+title: C语言学习笔记
+type: knowledge
+date: '2026-04-12'
+status: distilled
+tags:
+- 知识
+- 编程语言
+- C
+source: []
+related:
+- 编程语言学习笔记
+- 知识库
+---
+
 # C语言学习笔记
 
 ## 目录结构
@@ -40,3 +55,9 @@
 - [Windows文件结构](./05_开发环境/02_Windows文件结构.md)
 - [调试技巧](./05_开发环境/03_调试技巧.md)
 - [资源目录](./资源/)
+
+## 相关笔记
+<!-- AUTO-RELATED-START -->
+- [编程语言学习笔记](../编程语言.md)
+- [知识库](../../知识.md)
+<!-- AUTO-RELATED-END -->
