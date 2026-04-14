@@ -10,7 +10,6 @@ tags:
 - 面向对象
 source: []
 related:
-- C# 面向对象编程
 - C# 编程语言学习笔记
 - 泛型
 ---
@@ -280,7 +279,7 @@ public class GameManager
 
 ## 相关笔记
 <!-- AUTO-RELATED-START -->
-- [C# 面向对象编程](02_面向对象.md)
+- [C# 面向对象编程](<../C#.md>)
 - [C# 编程语言学习笔记](<../C#.md>)
 - [泛型](06_泛型.md)
 <!-- AUTO-RELATED-END -->

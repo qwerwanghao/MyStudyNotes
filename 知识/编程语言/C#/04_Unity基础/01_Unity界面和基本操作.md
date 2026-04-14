@@ -10,7 +10,6 @@ tags:
 - Unity基础
 source: []
 related:
-- Unity游戏开发基础
 - C# 编程语言学习笔记
 - 游戏对象和组件
 ---
@@ -249,7 +248,7 @@ public class MyComponentEditor : Editor
 
 ## 相关笔记
 <!-- AUTO-RELATED-START -->
-- [Unity游戏开发基础](04_Unity基础.md)
+- [Unity游戏开发基础](<../C#.md>)
 - [C# 编程语言学习笔记](<../C#.md>)
 - [游戏对象和组件](02_游戏对象和组件.md)
 <!-- AUTO-RELATED-END -->
