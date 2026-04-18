@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da36d392da068646",
+        "id": "6bc5b005926fefa5",
         "type": "tabs",
         "children": [
           {
-            "id": "410f844ed9486535",
+            "id": "cbb45517d3ffc3dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "知识/AI/提示词工程.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "提示词工程"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/AI/提示词工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "提示词工程 的反向链接列表"
             }
           },
           {
@@ -177,8 +182,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "410f844ed9486535",
+  "active": "cbb45517d3ffc3dc",
   "lastOpenFiles": [
+    "知识/AI/提示词工程.md",
+    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/01_进程.md",
+    "知识/面试题/游戏客户端面试题/02_C#语言特性/C#语言特性.md",
+    "知识/面试题/游戏客户端面试题/游戏客户端面试题.md",
+    "知识/游戏引擎/Unity3D/Unity3D.md",
+    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/02_线程.md",
+    "进程.md",
+    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/操作系统和编译原理.md",
     "模板/年总结模板.md",
     "模板/周回顾模板.md",
     "日志/2026/2026-04-13.md",
@@ -197,14 +210,6 @@
     "总结/2025/2025年总结.md",
     "知识/知识.md",
     "知识/CS基础/CS基础.md",
-    "知识/CS基础/数据结构与算法/数据结构与算法.md",
-    "知识/CS基础/计算机组成原理/01_系统入门与信息基础/03_计算机中的字符.md",
-    "知识/CS基础/计算机组成原理/01_系统入门与信息基础/04_计算机中的大小端.md",
-    "知识/CS基础/计算机组成原理/01_系统入门与信息基础/01_计算机系统概论.md",
-    "知识/CS基础/计算机组成原理/01_系统入门与信息基础/02_计算机的数据单位.md",
-    "知识/CS基础/计算机组成原理/02_数据表示与运算基础/01_计算机的数据表示.md",
-    "知识/CS基础/计算机组成原理/02_数据表示与运算基础/02_二进制的多重解释.md",
-    "知识/CS基础/计算机组成原理/03_存储、指令与CPU/01_存储系统.md",
     "知识/CS基础/计算机组成原理/资源/pipeline_optimization.png",
     "知识/CS基础/计算机组成原理/资源/pcie_structure.png",
     "知识/CS基础/计算机组成原理/资源/modern_cpu.png",
