@@ -1,7 +1,7 @@
 ---
 title: Inbox
 type: capture
-date: 2026-04-19
+date: 2026-04-20
 status: raw
 tags: [inbox]
 source: []
@@ -14,4 +14,3 @@ related: []
 
 ## 快速追加
 
-## 待 LLM 整理
