@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc5b005926fefa5",
+        "id": "0e509aaef62e6a85",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb45517d3ffc3dc",
+            "id": "e7408e3bd0761dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/AI/OpenClaw实战指南.md",
+                "file": "知识/AI/AutoResearch在软件开发领域的应用.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw实战指南"
+              "title": "AutoResearch在软件开发领域的应用"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "4c93d03de8b8c008",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/AI/OpenClaw实战指南.md",
+                "file": "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "OpenClaw实战指南 的反向链接列表"
+              "title": "多智能体工业级生产线架构_TDD_V7_终极原生版 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyStudyNotes.md",
+                "file": "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MyStudyNotes 的出链列表"
+              "title": "多智能体工业级生产线架构_TDD_V7_终极原生版 的出链列表"
             }
           },
           {
@@ -156,20 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyStudyNotes.md",
+                "file": "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MyStudyNotes 的大纲"
+              "title": "多智能体工业级生产线架构_TDD_V7_终极原生版 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +184,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cbb45517d3ffc3dc",
+  "active": "e7408e3bd0761dbf",
   "lastOpenFiles": [
     "知识/AI/提示词工程.md",
-    "收集/Inbox.md",
-    "收集/收集.md",
-    "日志/2026/2026-04-15.md",
-    "日志/2026/2026-04-14.md",
-    "日志/2026/2026-04-13.md",
-    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/01_进程.md",
-    "知识/面试题/游戏客户端面试题/02_C#语言特性/C#语言特性.md",
-    "知识/面试题/游戏客户端面试题/游戏客户端面试题.md",
-    "知识/游戏引擎/Unity3D/Unity3D.md",
-    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/02_线程.md",
-    "进程.md",
-    "知识/面试题/游戏客户端面试题/01_操作系统和编译原理/操作系统和编译原理.md",
-    "模板/年总结模板.md",
-    "模板/周回顾模板.md",
-    "知识/编程语言/C#/02_面向对象/03_接口和抽象类.md",
-    "知识/编程语言/C#/01_基础知识/05_运算符和表达式.md",
-    "知识/编程语言/C#/04_Unity基础/05_场景管理.md",
-    "知识/CS基础/计算机组成原理/04_系统互连与输入输出/01_总线系统.md",
-    "知识/CS基础/计算机组成原理/03_存储、指令与CPU/03_中央处理器.md",
-    "知识/CS基础/计算机组成原理/03_存储、指令与CPU/02_指令系统.md",
-    "知识/CS基础/计算机组成原理/02_数据表示与运算基础/03_原码、反码与补码.md",
-    "知识/CS基础/计算机组成原理/02_数据表示与运算基础/04_数据的表示和运算.md",
-    "知识/CS基础/计算机组成原理/计算机组成原理.md",
-    "知识/CS基础/计算机组成原理/04_系统互连与输入输出/02_输入输出系统.md",
-    "MyStudyNotes.md",
+    "知识/AI/AutoResearch在软件开发领域的应用.md",
+    "知识/AI/AutoResearch在软件开发领域的应用.md.tmp.20141.1776846747917",
+    "知识/AI/OpenClaw实战指南.md",
+    "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版.md",
+    "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版 copy.md",
+    "技术文档/多智能体异构协作生态架构_TDD_V7_原生生态版.md",
+    "技术文档/多智能体异构协作架构_TDD_V6_生产交付版_全本.md",
+    "技术文档/多智能体异构协作架构_TDD_V5_生产交付版.md",
+    "技术文档/多智能体异构协作架构_TDD_V4_生产交付版.md",
+    "技术文档/多智能体异构协作架构_TDD_V3.md",
+    "技术文档/多智能体异构协作系统TDD.md",
+    "技术文档/多智能体异构协作系统TDD_改进版.md",
+    "技术文档/Hermes_DAG_Engine/hermes_dag.db-journal",
+    "技术文档/Hermes_DAG_Engine/hermes_evaluator.py",
+    "技术文档/Hermes_DAG_Engine/sandbox_shared",
+    "技术文档/Hermes_DAG_Engine/hermes_dag.db",
+    "技术文档/Hermes_DAG_Engine/__pycache__/dag_db.cpython-312.pyc",
+    "技术文档/Hermes_DAG_Engine/__pycache__",
+    "技术文档/OpenClaw_Gateway/package-lock.json",
+    "技术文档/OpenClaw_Gateway/package.json",
+    "技术文档/OpenClaw_Gateway/node_modules/iconv-lite/lib/index.d.ts",
+    "技术文档/OpenClaw_Gateway/node_modules/iconv-lite/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/object-inspect/CHANGELOG.md",
+    "技术文档/OpenClaw_Gateway/node_modules/qs/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/qs/LICENSE.md",
+    "技术文档/OpenClaw_Gateway/node_modules/qs/CHANGELOG.md",
+    "技术文档/OpenClaw_Gateway/node_modules/body-parser/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/math-intrinsics/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/express/Readme.md",
+    "技术文档/OpenClaw_Gateway/node_modules/math-intrinsics/CHANGELOG.md",
+    "技术文档/OpenClaw_Gateway/node_modules/has-symbols/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/has-symbols/CHANGELOG.md",
+    "技术文档/OpenClaw_Gateway/node_modules/mime-db/README.md",
+    "技术文档/OpenClaw_Gateway/node_modules/negotiator/README.md",
     "知识/CS基础/计算机组成原理/资源/pipeline_optimization.png",
     "知识/CS基础/计算机组成原理/资源/pcie_structure.png",
     "知识/CS基础/计算机组成原理/资源/modern_cpu.png",
@@ -219,7 +230,6 @@
     "知识/编程语言/C/资源/内存映像.png",
     "知识/编程语言/C/资源/内存分部图1.png",
     "知识/编程语言/C/资源/内存分布图2.png",
-    "知识/编程语言/C/资源/链接2.png",
-    "Content"
+    "知识/编程语言/C/资源/链接2.png"
   ]
 }
