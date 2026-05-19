@@ -1,7 +1,7 @@
 ---
 title: Inbox
 type: capture
-date: 2026-04-20
+date: 2026-05-20
 status: raw
 tags: [inbox]
 source: []
