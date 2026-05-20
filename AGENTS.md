@@ -1,22 +1,22 @@
-# Repository Guidelines
+# 仓库指南
 
-## Project Structure & Content Organization
-This repository is a Markdown-first personal knowledge base, not a software project. Put quick captures in `收集/`, preferably `收集/Inbox.md`. Daily notes live in `日志/` and use `YYYY-MM-DD.md`. Long-term notes belong under `知识/` with a path pattern like `知识/大类/主题/分组/文件.md`. Reflections, reviews, and plans go to `感悟/`、`总结/`、`展望/`. Reusable note skeletons live in `模板/`, prompts in `提示词/`, and navigation pages in `索引/` such as `索引/工作台.md`.
+## 项目结构与内容组织
+本仓库是一个以 Markdown 为核心的个人知识库，而非软件项目。快速记录放入 `收集/`，推荐使用 `收集/Inbox.md`。每日笔记存放在 `日志/`，文件名格式为 `YYYY-MM-DD.md`。长期笔记归入 `知识/`，路径格式为 `知识/大类/主题/分组/文件.md`。感悟、回顾和计划分别放入 `感悟/`、`总结/`、`展望/`。可复用的笔记骨架放在 `模板/`，提示词放在 `提示词/`，导航页面放在 `索引/`，例如 `索引/工作台.md`。
 
-Store images and attachments in a sibling `资源/` folder near the related note, for example `知识/CS基础/计算机组成原理/资源/`.
+图片和附件存放在相关笔记旁边的 `资源/` 文件夹中，例如 `知识/CS基础/计算机组成原理/资源/`。
 
-## Build, Check, and Local Workflow
-There is no build system or automated test suite. Use lightweight checks before finishing edits:
+## 构建、检查与本地工作流
+本仓库没有构建系统或自动化测试套件。完成编辑前使用以下轻量检查：
 
-- `rg --files` to inspect the current note tree quickly
-- `sed -n '1,80p' 模板/知识笔记模板.md` to confirm the standard note layout
-- `git diff --check` to catch trailing spaces and malformed diffs
-- `git status --short` to verify that only intended files changed
+- `rg --files` — 快速检查当前笔记树
+- `sed -n '1,80p' 模板/知识笔记模板.md` — 确认标准笔记布局
+- `git diff --check` — 发现尾部空格和格式错误
+- `git status --short` — 确认只有预期文件发生变化
 
-After changing links, indexes, or workspace settings, preview the result in Obsidian.
+修改链接、索引或工作区设置后，在 Obsidian 中预览效果。
 
-## Writing Style & Naming Conventions
-Write in Markdown with short paragraphs, explicit headings, and direct lists. Structured knowledge notes should keep YAML frontmatter such as:
+## 写作风格与命名规范
+使用 Markdown 写作，段落简短，标题明确，列表直接。结构化知识笔记应保留 YAML frontmatter，例如：
 
 ```yaml
 ---
@@ -27,10 +27,10 @@ status: distilled
 ---
 ```
 
-Use existing naming patterns: `2026-04-15.md` for daily notes, `2026年总结.md` and `2026年计划.md` for yearly review or planning, and concise topic names for knowledge notes. Avoid vague names like “笔记” or “总结” when the subject itself is enough.
+遵循现有命名规范：每日笔记用 `2026-04-15.md`，年度回顾或计划用 `2026年总结.md` 和 `2026年计划.md`，知识笔记用简洁的主题名。当主题本身已足够说明内容时，避免使用"笔记"或"总结"等模糊名称。
 
-## Validation Guidelines
-Manual review is required. Check that frontmatter fields are complete, internal links still resolve after moves or renames, and new knowledge notes are linked from relevant indexes or parent notes. Mark uncertain claims as `待核实`. Prefer expanding an existing note over creating a near-duplicate file.
+## 验证指南
+需要人工审查。检查 frontmatter 字段是否完整，移动或重命名后内部链接是否仍然有效，新知识笔记是否已从相关索引或父笔记链接。将不确定的内容标记为 `待核实`。优先扩展现有笔记，而非创建近似重复的文件。
 
-## Commit & Pull Request Guidelines
-Follow the existing commit style: short imperative messages such as `Add ...`, `Update ...`, or `Rename ...`. Keep one commit focused on one type of content change. For pull requests, list the affected directories, explain any file moves, and include screenshots only when `.obsidian/` views or workspace settings changed. Do not delete raw records in `收集/` or `日志/` unless explicitly requested.
+## 提交与 Pull Request 指南
+遵循现有提交风格：简短的祈使句，如 `Add ...`、`Update ...` 或 `Rename ...`。每次提交专注于一类内容变更。Pull Request 中列出受影响的目录，说明文件移动情况，仅在 `.obsidian/` 视图或工作区设置发生变化时附上截图。除非明确要求，不得删除 `收集/` 或 `日志/` 中的原始记录。

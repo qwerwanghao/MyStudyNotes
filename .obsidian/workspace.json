@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/AI/AutoResearch在软件开发领域的应用.md",
+                "file": "知识/AI/OpenClaw实战指南.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AutoResearch在软件开发领域的应用"
+              "title": "OpenClaw实战指南"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "e7408e3bd0761dbf",
   "lastOpenFiles": [
-    "知识/AI/提示词工程.md",
+    "知识/AI/Claude Code 入门与 Skill 系统.md",
     "知识/AI/AutoResearch在软件开发领域的应用.md",
+    "知识/AI/提示词工程.md",
     "知识/AI/AutoResearch在软件开发领域的应用.md.tmp.20141.1776846747917",
     "知识/AI/OpenClaw实战指南.md",
     "技术文档/多智能体工业级生产线架构_TDD_V7_终极原生版.md",

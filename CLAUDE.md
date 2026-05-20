@@ -1,34 +1,37 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+本文件为 Claude Code（claude.ai/code）在此仓库中工作时提供指导。
 
-## Repository Overview
+## 仓库概述
 
-This is an Obsidian vault for personal knowledge management. The repository is structured around low-friction capture followed by AI-assisted organization into long-term knowledge notes.
+这是一个用于个人知识管理的 Obsidian 知识库。仓库的核心理念是低摩擦记录，再由 AI 辅助整理为长期知识笔记。
 
-**Core principle**: Record first, organize later. LLMs help distill raw notes into structured knowledge, but never fabricate opinions or delete original records.
+**核心原则**：先记录，后整理。LLM 帮助将原始笔记提炼为结构化知识，但绝不捏造观点，也不删除原始记录。
 
-## Directory Structure
+## 目录结构
 
 ```
-收集/          # Capture inbox - lowest friction entry point
-日志/YYYY/     # Daily logs - one file per day
-知识/          # Long-term knowledge notes (evergreen content)
-感悟/          # Personal insights, judgments, methodology changes
-总结/          # Reviews (weekly, monthly, yearly, stage-based)
-展望/          # Plans and future directions
-模板/          # Note templates
-提示词/        # Prompts for AI-assisted organization
-索引/          # Navigation pages
+收集/          # 收集收件箱——最低摩擦的入口
+日志/YYYY/     # 每日日志——每天一个文件
+知识/          # 长期知识笔记（常青内容）
+感悟/          # 个人洞察、判断、方法论变化
+总结/          # 回顾（周、月、年、阶段性）
+展望/          # 计划与未来方向
+技术文档/      # 技术文档与参考资料
+模板/          # 笔记模板
+提示词/        # AI 辅助整理的提示词
+索引/          # 导航页面
 ```
 
-## Note Types & Frontmatter
+图片和附件存放在相关笔记旁边的 `资源/` 文件夹中，例如 `知识/CS基础/计算机组成原理/资源/`。
 
-All notes use this frontmatter structure:
+## 笔记类型与 Frontmatter
+
+所有笔记使用以下 frontmatter 结构：
 
 ```yaml
 ---
-title: Title
+title: 标题
 type: daily | capture | knowledge | insight | review | plan
 date: YYYY-MM-DD
 status: raw | distilled | evergreen
@@ -38,53 +41,64 @@ related: []
 ---
 ```
 
-**Status levels**:
-- `raw`: Original records, unorganized content
-- `distilled`: Organized but may still be modified
-- `evergreen`: Stable long-term knowledge notes
+**状态等级**：
+- `raw`：原始记录，未整理内容
+- `distilled`：已整理，但仍可修改
+- `evergreen`：稳定的长期知识笔记
 
-## LLM Maintenance Rules
+## LLM 维护规则
 
-When helping maintain this repository:
+维护此仓库时：
 
-**Allowed**:
-- Update/create notes based on `收集/`, `日志/`, and existing notes
-- Merge obviously duplicate notes
-- Add frontmatter, tags, and related links
-- Move items to more appropriate locations
+**允许**：
+- 根据 `收集/`、`日志/` 及现有笔记更新或创建笔记
+- 合并明显重复的笔记
+- 添加 frontmatter、标签和关联链接
+- 将内容移动到更合适的位置
 
-**Not Allowed**:
-- Delete original records
-- Fabricate conclusions or present uncertain knowledge as fact
-- Beautify emotions/opinions into non-existent conclusions
-- Large-scale renaming/migration unless explicitly requested
+**不允许**：
+- 删除原始记录
+- 捏造结论或将不确定的知识当作事实呈现
+- 将情绪/观点美化为不存在的结论
+- 未经明确请求进行大规模重命名或迁移
 
-**Key principles**:
-1. Preserve original records - don't delete raw input
-2. Separate knowledge facts from personal opinions
-3. Mark uncertain content as `待核实` (to be verified)
-4. One note per topic
-5. Use index pages for navigation, not infinite directory nesting
+**核心原则**：
+1. 保留原始记录——不删除原始输入
+2. 将知识事实与个人观点分开
+3. 将不确定内容标记为 `待核实`
+4. 一个主题一篇笔记
+5. 用索引页面导航，不要无限嵌套目录
 
-## Knowledge Directory Structure
+## 知识目录结构
 
-`知识/` uses: `大类/主题/分组/资源/` (Category/Topic/Group/Resources/)
+`知识/` 使用：`大类/主题/分组/资源/`（类别/主题/分组/资源）
 
-Don't create intermediate directories like `Content/` or `Media/`. Keep depth under 4 levels.
+不要创建 `Content/` 或 `Media/` 等中间目录，目录深度保持在 4 层以内。
 
-## Common Workflows
+## 常用工作流
 
-**Daily organization**: Read `提示词/每日整理Prompt.md` and follow it with `LLM维护手册.md` as the authority.
+**每日整理**：阅读 `提示词/每日整理Prompt.md`，以 `LLM维护手册.md` 为权威依据执行。
 
-**Weekly review**: Read `提示词/周整理Prompt.md` to consolidate last 7 days of logs.
+**周回顾**：阅读 `提示词/周整理Prompt.md`，整合最近 7 天的日志。
 
-**When creating notes**: Prefer updating existing notes. Only create new notes when:
-- New topic has clear boundaries from existing notes
-- Original note is too long to extend
-- Upgrading raw records to long-term notes
+**创建笔记时**：优先更新现有笔记，仅在以下情况创建新笔记：
+- 新主题与现有笔记有清晰边界
+- 原笔记过长无法继续扩展
+- 将原始记录升级为长期笔记
 
-## Entry Points
+## 验证与提交
 
-- [工作台](索引/工作台.md) - Main navigation dashboard
-- [LLM维护手册](LLM维护手册.md) - Complete LLM maintenance guide
-- [MyStudyNotes](MyStudyNotes.md) - Repository overview and usage
+完成编辑前，运行以下轻量检查：
+- `rg --files` — 检查当前笔记树
+- `git diff --check` — 发现尾部空格和格式错误
+- `git status --short` — 确认只有预期文件发生变化
+
+修改链接、索引或工作区设置后，在 Obsidian 中预览效果。
+
+提交风格：简短的祈使句（`Add ...`、`Update ...`、`Rename ...`），每次提交只包含一类内容变更。
+
+## 入口
+
+- [工作台](索引/工作台.md) - 主导航仪表盘
+- [LLM维护手册](LLM维护手册.md) - 完整的 LLM 维护指南
+- [MyStudyNotes](MyStudyNotes.md) - 仓库概述与使用说明
