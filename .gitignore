@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Obsidian device-specific workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
 # =========================
 # Operating System Files
 # =========================
