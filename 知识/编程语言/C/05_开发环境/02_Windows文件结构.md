@@ -32,7 +32,7 @@ related:
     ; This is a comment
     ```
 
-    ![alt text](../资源/.ini文件.png)
+    ![alt text](../资源/ini文件.png)
     
 ## 2. `bin` 文件夹
 

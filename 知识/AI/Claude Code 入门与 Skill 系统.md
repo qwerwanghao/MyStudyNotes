@@ -3,9 +3,11 @@ title: Claude Code 入门与 Skill 系统
 type: knowledge
 date: 2026-05-20
 status: distilled
-tags: [AI, Claude Code, Agent, Skill, LLM]
+tags: [AI, Claude-Code, Agent, Skill, LLM]
 source: [收集/Inbox.md]
-related: [[OpenClaw实战指南]], [[AutoResearch在软件开发领域的应用]]
+related:
+  - "[[OpenClaw实战指南]]"
+  - "[[AutoResearch在软件开发领域的应用]]"
 ---
 
 # Claude Code 入门与 Skill 系统

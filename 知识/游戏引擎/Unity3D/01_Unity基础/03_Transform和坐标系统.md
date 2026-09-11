@@ -347,8 +347,8 @@ public static class TransformExtensions
 
 ## 相关笔记
 <!-- AUTO-RELATED-START -->
-- [Unity游戏开发基础](<../C#.md>)
-- [C# 编程语言学习笔记](<../C#.md>)
+- [Unity游戏开发基础](../Unity3D.md)
+- [[CSharp|C# 编程语言学习笔记]]
 - [游戏对象和组件](02_游戏对象和组件.md)
 - [预制体系统](04_预制体系统.md)
 <!-- AUTO-RELATED-END -->

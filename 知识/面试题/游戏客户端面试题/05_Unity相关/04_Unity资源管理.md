@@ -509,5 +509,5 @@ graph TD
 ## 🔗 相关链接
 
 - [[Unity相关]] - 父主题索引
-- [[Unity多线程]] - 相关主题：异步资源加载
-- [[Gameobject的生命周期]] - 相关主题：资源初始化
+- [Unity多线程](03_Unity多线程.md) - 相关主题：异步资源加载
+- [Gameobject的生命周期](01_Gameobject的生命周期.md) - 相关主题：资源初始化

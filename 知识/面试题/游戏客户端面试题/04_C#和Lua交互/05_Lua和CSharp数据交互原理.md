@@ -489,6 +489,6 @@ public void SafeStackOperation(IntPtr L)
 
 ## 🔗 相关链接
 
-- [[C#和Lua交互]] - 父主题索引
-- [[XLua是如何通过反射与Lua层进行交互的]] - 相关主题：反射与数据交互
-- [[XLua性能优化]] - 相关主题：数据交互性能优化
+- [[CSharp和Lua交互|C#和Lua交互]] - 父主题索引
+- [XLua是如何通过反射与Lua层进行交互的](02_XLua是如何通过反射与Lua层进行交互的.md) - 相关主题：反射与数据交互
+- [XLua性能优化](03_XLua性能优化.md) - 相关主题：数据交互性能优化
