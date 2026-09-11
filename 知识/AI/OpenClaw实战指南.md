@@ -3,10 +3,18 @@ title: OpenClaw实战指南
 type: knowledge
 date: 2026-04-19
 status: distilled
-tags: [AI, 智能体, Agent, OpenClaw, 数字员工, 自动化, 企业AI, Skill]
-source: [课程录音转写, 课程PPT笔记]
+tags:
+  - AI
+  - 智能体
+  - Agent
+  - OpenClaw
+  - 数字员工
+  - 自动化
+  - 企业AI
+  - Skill
+source: []
 related:
-- "[[提示词工程]]"
+  - "[[提示词工程]]"
 ---
 
 # OpenClaw实战指南
