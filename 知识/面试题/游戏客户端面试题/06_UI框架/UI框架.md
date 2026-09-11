@@ -8,10 +8,7 @@ tags:
 - 面试题
 - 游戏客户端
 source:
-- type: yuque
-  url: https://www.yuque.com/wanghao-yciao/dk58gg/so4cp7aey6endxdm
-  title: UI框架
-  note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/so4cp7aey6endxdm"
 related: []
 ---
 
@@ -31,3 +28,15 @@ related: []
 - [04_UI数据绑定与生命周期](04_UI数据绑定与生命周期.md) — 数据绑定与生命周期管理
 - [05_UI性能优化与热更新](05_UI性能优化与热更新.md) — 性能优化策略与热更新实现
 - [06_UI框架GC与内存优化](06_UI框架GC与内存优化.md) — GC 热点分析、模块职责与优化落地
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/so4cp7aey6endxdm
+- title：UI框架
+- note：一级页面归档

@@ -4,10 +4,10 @@ type: knowledge
 date: '2026-04-12'
 status: distilled
 tags:
-- 知识
-- 编程语言
-- C#
-- Unity基础
+- "知识"
+- "编程语言"
+- "CSharp"
+- "Unity基础"
 source: []
 related:
 - C# 编程语言学习笔记
@@ -245,6 +245,8 @@ public class MyComponentEditor : Editor
    - Input Controls
    - Input Bindings
    - Input Processors
+
+```
 
 ## 相关笔记
 <!-- AUTO-RELATED-START -->

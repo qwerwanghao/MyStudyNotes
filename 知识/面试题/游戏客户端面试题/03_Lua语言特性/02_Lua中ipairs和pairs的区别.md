@@ -10,10 +10,7 @@ tags:
   - Lua语言特性
   - Lua中ipairs和pairs的区别
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/imxhgxxg0g9sukts
-    title: Lua中ipairs和pairs的区别
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/imxhgxxg0g9sukts"
 related:
   - ./Lua语言特性.md
 ---
@@ -484,3 +481,15 @@ end
 - [[Lua语言特性]] - 父主题索引
 - [Lua table底层实现](05_Lua_table底层实现.md) - 相关主题：表的内部结构
 - [Lua GC](01_Lua_GC.md) - 相关主题：垃圾回收与性能
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/imxhgxxg0g9sukts
+- title：Lua中ipairs和pairs的区别
+- note：二级页归档

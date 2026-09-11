@@ -10,10 +10,7 @@ tags:
   - Lua语言特性
   - Lua实现面向对象
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/qgu39qumat8s0yva
-    title: Lua实现面向对象
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/qgu39qumat8s0yva"
 related:
   - ./Lua语言特性.md
 ---
@@ -441,3 +438,15 @@ print(obj.staticMethod())  -- Static method called
 - [[Lua语言特性]] - 父主题索引
 - [Lua中点和冒号的区别](03_Lua中点和冒号的区别.md) - 相关主题：self 参数与面向对象
 - [Lua实现闭包](06_Lua实现闭包.md) - 相关主题：闭包与私有成员实现
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/qgu39qumat8s0yva
+- title：Lua实现面向对象
+- note：二级页归档

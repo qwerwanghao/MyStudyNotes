@@ -10,10 +10,8 @@ tags:
   - Unity相关
   - Unity资源管理
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/ployvikfgupwn8dg
-    title: Unity资源管理
-  - note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/ployvikfgupwn8dg"
+- "二级页归档"
 related:
   - ./Unity相关.md
 ---
@@ -511,3 +509,18 @@ graph TD
 - [[Unity相关]] - 父主题索引
 - [Unity多线程](03_Unity多线程.md) - 相关主题：异步资源加载
 - [Gameobject的生命周期](01_Gameobject的生命周期.md) - 相关主题：资源初始化
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/ployvikfgupwn8dg
+- title：Unity资源管理
+
+### 来源 2
+
+- note：二级页归档

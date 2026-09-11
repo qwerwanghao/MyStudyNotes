@@ -9,10 +9,7 @@ tags:
   - 游戏客户端
   - Lua语言特性
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/lqyg25b9w9ou4u7c
-    title: Lua语言特性
-    note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/lqyg25b9w9ou4u7c"
 related: []
 ---
 
@@ -151,3 +148,15 @@ Lua 在游戏开发中有广泛应用，特别是在以下场景：
 ## 🔗 相关链接
 
 - [[游戏客户端面试题]] - 返回上级目录
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/lqyg25b9w9ou4u7c
+- title：Lua语言特性
+- note：一级页面归档

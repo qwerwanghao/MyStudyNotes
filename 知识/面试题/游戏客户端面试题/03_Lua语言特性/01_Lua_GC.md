@@ -4,16 +4,13 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - Lua语言特性
-  - Lua GC
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "Lua语言特性"
+- "Lua-GC"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/rxnmo3a793rglyw9
-    title: Lua GC
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/rxnmo3a793rglyw9"
 related:
   - ./Lua语言特性.md
 ---
@@ -556,3 +553,15 @@ collectgarbage("incremental")   -- 切换回增量模式
 - [[Lua语言特性]] - 父主题索引
 - [Lua table底层实现](05_Lua_table底层实现.md) - 相关主题：表的内存管理
 - [Lua实现闭包](06_Lua实现闭包.md) - 相关主题：闭包与内存管理
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/rxnmo3a793rglyw9
+- title：Lua GC
+- note：二级页归档

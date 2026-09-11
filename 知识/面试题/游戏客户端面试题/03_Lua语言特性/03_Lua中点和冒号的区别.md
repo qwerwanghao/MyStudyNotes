@@ -10,10 +10,7 @@ tags:
   - Lua语言特性
   - Lua中点和冒号的区别
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/fcesd74b6llx6ba7
-    title: Lua中点和冒号的区别
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/fcesd74b6llx6ba7"
 related:
   - ./Lua语言特性.md
 ---
@@ -539,3 +536,15 @@ local func = bind(obj, "method")
 - [[Lua语言特性]] - 父主题索引
 - [Lua实现面向对象](07_Lua实现面向对象.md) - 相关主题：完整的面向对象实现
 - [Lua实现闭包](06_Lua实现闭包.md) - 相关主题：闭包与 self 捕获
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/fcesd74b6llx6ba7
+- title：Lua中点和冒号的区别
+- note：二级页归档

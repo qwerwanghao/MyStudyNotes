@@ -10,10 +10,7 @@ tags:
   - Unity相关
   - Gameobject的生命周期
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/rlgg4t2ykh9mou16
-    title: Gameobject的生命周期
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/rlgg4t2ykh9mou16"
 related:
   - ./Unity相关.md
 ---
@@ -627,3 +624,15 @@ void OnDisable() {
 - [协程](02_协程.md) - 相关主题：异步编程
 - [Unity多线程](03_Unity多线程.md) - 相关主题：性能优化
 - [Unity资源管理](04_Unity资源管理.md) - 相关主题：内存管理
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/rlgg4t2ykh9mou16
+- title：Gameobject的生命周期
+- note：二级页归档

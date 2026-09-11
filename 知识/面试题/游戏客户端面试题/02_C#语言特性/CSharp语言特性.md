@@ -4,15 +4,12 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - C#语言特性
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "CSharp语言特性"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/rycg3i65h9vk6mzd
-    title: C#语言特性
-    note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/rycg3i65h9vk6mzd"
 related: []
 ---
 
@@ -115,3 +112,15 @@ C# 是 Unity 的主要编程语言，理解这些特性对游戏开发至关重�
 ## 🔗 相关链接
 
 - [[游戏客户端面试题]] - 返回上级目录
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/rycg3i65h9vk6mzd
+- title：C#语言特性
+- note：一级页面归档

@@ -8,10 +8,8 @@ tags:
   - 面试题
   - 游戏客户端
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/sb0i32dsguz2hm7l
-    title: NISHIKI项目问题
-  - note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/sb0i32dsguz2hm7l"
+- "一级页面归档"
 related: []
 ---
 
@@ -29,3 +27,18 @@ related: []
 - [02_小地图系统](02_小地图系统.md) — 事件驱动的血量显示与图标管理
 - [03_战斗属性系统](03_战斗属性系统.md) — 伤害免疫率属性与伤害计算流水线
 - [04_Buff系统实现](04_Buff系统实现.md) — 周期性扣血Buff与效果框架
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/sb0i32dsguz2hm7l
+- title：NISHIKI项目问题
+
+### 来源 2
+
+- note：一级页面归档

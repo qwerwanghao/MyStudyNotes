@@ -8,10 +8,7 @@ tags:
 - 面试题
 - 游戏客户端
 source:
-- type: yuque
-  url: https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
-  title: C#和Lua交互
-  note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1"
 related: []
 ---
 
@@ -30,3 +27,15 @@ related: []
 - [03_XLua性能优化](./03_XLua性能优化.md) — 代码生成与白名单导出优化策略
 - [[04_Lua和CSharp异步交互|04_Lua和C#异步交互]] — 协程机制与回调处理
 - [[05_Lua和CSharp数据交互原理|05_Lua和C#数据交互原理]] — Lua 栈机制与数据类型转换
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
+- title：C#和Lua交互
+- note：一级页面归档

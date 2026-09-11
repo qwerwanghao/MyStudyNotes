@@ -8,10 +8,7 @@ tags:
 - 面试题
 - 游戏客户端
 source:
-- type: yuque
-  url: https://www.yuque.com/wanghao-yciao/dk58gg/nt57dk8ys6ogvxx7
-  title: Unity相关
-  note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/nt57dk8ys6ogvxx7"
 related: []
 ---
 
@@ -30,3 +27,15 @@ related: []
 - [03_Unity多线程](03_Unity多线程.md) — 多线程解决方案与线程间通信
 - [04_Unity资源管理](04_Unity资源管理.md) — 资源加载、内存管理与优化策略
 - [05_行为树和状态机](05_行为树和状态机.md) — AI 决策架构设计与实现
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/nt57dk8ys6ogvxx7
+- title：Unity相关
+- note：一级页面归档

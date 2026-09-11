@@ -5,7 +5,8 @@ date: 2026-04-17
 status: distilled
 tags: [AI, Agent, 自动化开发, GitHub, AutoResearch, 多Agent, 迭代优化]
 source: [https://github.com/smallnest/autoresearch, https://mp.weixin.qq.com/s/JFvYo9RCn9Xm8ilx1Chd6g]
-related: [[OpenClaw实战指南]]
+related:
+- "[[OpenClaw实战指南]]"
 ---
 
 # AutoResearch 在软件开发领域的应用

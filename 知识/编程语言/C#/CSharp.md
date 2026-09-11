@@ -4,9 +4,9 @@ type: knowledge
 date: '2026-04-12'
 status: distilled
 tags:
-- 知识
-- 编程语言
-- C#
+- "知识"
+- "编程语言"
+- "CSharp"
 source: []
 related:
 - 编程语言学习笔记

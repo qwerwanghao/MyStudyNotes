@@ -4,16 +4,13 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - C#和Lua交互
-  - Lua层如何获取到节点的信息
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "CSharp和Lua交互"
+- "Lua层如何获取到节点的信息"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
-    title: C#和Lua交互
-    note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1"
 related:
   - ./C#和Lua交互.md
 ---
@@ -245,3 +242,15 @@ graph TD
 - [[CSharp和Lua交互|C#和Lua交互]] - 父主题索引
 - [XLua是如何通过反射与Lua层进行交互](02_XLua是如何通过反射与Lua层进行交互的.md) - 相关主题：反射交互详解
 - [XLua性能优化](03_XLua性能优化.md) - 相关主题：性能优化策略
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
+- title：C#和Lua交互
+- note：一级页面归档

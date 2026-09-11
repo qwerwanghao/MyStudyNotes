@@ -10,10 +10,8 @@ tags:
   - UI框架
   - Lua驱动的UI交互
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/atwtqsproi1iqhiy
-    title: UI系统框架
-  - note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/atwtqsproi1iqhiy"
+- "二级页归档"
 related:
   - ./UI框架.md
 ---
@@ -311,3 +309,18 @@ end
 - [[UI框架]] - 父主题索引
 - [UI系统框架](01_UI系统框架.md) - 相关主题：C# 层架构
 - [[CSharp和Lua交互|C#和Lua交互]] - 相关主题：XLua 交互机制
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/atwtqsproi1iqhiy
+- title：UI系统框架
+
+### 来源 2
+
+- note：二级页归档

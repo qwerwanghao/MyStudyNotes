@@ -10,9 +10,7 @@ tags:
   - UI框架
   - GC
 source:
-  - type: note
-    title: 收集/Inbox
-    note: 从原始整理中提炼 UI + Lua 架构下的 GC 热点与优化思路
+- "收集/Inbox"
 related:
   - ./UI框架.md
   - ./02_Lua驱动的UI交互.md
@@ -139,3 +137,14 @@ UI 框架里的 GC 问题通常不是来自单次大对象，而是来自高频�
 - [Lua驱动的UI交互](02_Lua驱动的UI交互.md) - 相关主题：桥接调用与 ScriptEnv 缓存
 - [UI性能优化与热更新](05_UI性能优化与热更新.md) - 相关主题：对象池、缓存与整体优化
 - [[01_CSharp_GC|C# GC]] - 相关主题：托管堆、分代回收与 GC 基础
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：note
+- title：收集/Inbox
+- note：从原始整理中提炼 UI + Lua 架构下的 GC 热点与优化思路

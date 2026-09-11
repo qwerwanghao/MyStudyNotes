@@ -10,10 +10,7 @@ tags:
   - Unity相关
   - Unity多线程
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/yk02pniogps0d0sz
-    title: Unity多线程
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/yk02pniogps0d0sz"
 related:
   - ./Unity相关.md
 ---
@@ -499,3 +496,15 @@ struct MyJob : IJob {
 - [[Unity相关]] - 父主题索引
 - [协程](02_协程.md) - 相关主题：协程与多线程的区别
 - [Unity资源管理](04_Unity资源管理.md) - 相关主题：异步资源加载
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/yk02pniogps0d0sz
+- title：Unity多线程
+- note：二级页归档

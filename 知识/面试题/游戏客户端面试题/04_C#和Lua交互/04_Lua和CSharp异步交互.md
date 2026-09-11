@@ -4,16 +4,13 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - C#和Lua交互
-  - Lua和C#异步交互
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "CSharp和Lua交互"
+- "Lua和CSharp异步交互"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
-    title: C#和Lua交互
-    note: 一级页面归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1"
 related:
   - ./C#和Lua交互.md
 ---
@@ -297,3 +294,15 @@ public class NetworkManager
 - [[CSharp和Lua交互|C#和Lua交互]] - 父主题索引
 - [XLua性能优化](03_XLua性能优化.md) - 相关主题：异步操作性能优化
 - [Lua实现闭包](../03_Lua语言特性/06_Lua实现闭包.md) - 相关主题：闭包与回调机制
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/bbyx9alxg4t39ng1
+- title：C#和Lua交互
+- note：一级页面归档

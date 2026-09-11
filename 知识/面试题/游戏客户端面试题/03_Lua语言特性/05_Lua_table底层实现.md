@@ -4,16 +4,13 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - Lua语言特性
-  - Lua table底层实现
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "Lua语言特性"
+- "Lua-table底层实现"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/crp1gfbb9vxtru1r
-    title: Lua table底层实现
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/crp1gfbb9vxtru1r"
 related:
   - ./Lua语言特性.md
 ---
@@ -372,3 +369,15 @@ graph TD
 - [[Lua语言特性]] - 父主题索引
 - [Lua GC](01_Lua_GC.md) - 相关主题：表的垃圾回收
 - [Lua string底层实现](04_Lua_string底层实现.md) - 相关主题：字符串的内存管理
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/crp1gfbb9vxtru1r
+- title：Lua table底层实现
+- note：二级页归档

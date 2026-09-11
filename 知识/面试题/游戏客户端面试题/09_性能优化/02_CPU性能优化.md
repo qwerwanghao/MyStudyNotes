@@ -10,10 +10,8 @@ tags:
   - 性能优化
   - CPU优化
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/lxr3vde1fpnzmtk8
-    title: 性能优化
-  - note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/lxr3vde1fpnzmtk8"
+- "二级页归档"
 related:
   - ./性能优化.md
 ---
@@ -1235,3 +1233,18 @@ public class GameBattleSystem
 - [内存优化](01_内存优化.md) - 相关主题：内存分配优化
 - [GPU性能优化](03_GPU性能优化.md) - 相关主题：渲染性能优化
 - [开放世界性能优化](04_开放世界性能优化.md) - 相关主题：大规模场景优化
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/lxr3vde1fpnzmtk8
+- title：性能优化
+
+### 来源 2
+
+- note：二级页归档

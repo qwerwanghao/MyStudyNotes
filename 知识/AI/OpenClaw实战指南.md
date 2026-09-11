@@ -5,7 +5,8 @@ date: 2026-04-19
 status: distilled
 tags: [AI, 智能体, Agent, OpenClaw, 数字员工, 自动化, 企业AI, Skill]
 source: [课程录音转写, 课程PPT笔记]
-related: [[提示词工程]]
+related:
+- "[[提示词工程]]"
 ---
 
 # OpenClaw实战指南
@@ -166,6 +167,8 @@ graph TD
 | 模型超时 | 检查代理和网络配置，API 地址是否可访问 |
 | API 报错 | 重新检查 API Key 是否正确，检查额度是否充足 |
 | 权限不足 | 以管理员身份执行命令（macOS: sudo, Windows: 管理员终端） |
+
+### 部署完成核查清单
 
 > [!todo] 部署完成核查清单
 > - [ ] 终端输入 `openclaw --version`，确认看到版本号

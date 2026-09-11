@@ -10,10 +10,7 @@ tags:
   - Lua语言特性
   - Lua实现闭包
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/gcl0u3oh0uzl4upw
-    title: Lua实现闭包
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/gcl0u3oh0uzl4upw"
 related:
   - ./Lua语言特性.md
 ---
@@ -440,3 +437,15 @@ result = nil
 - [[Lua语言特性]] - 父主题索引
 - [Lua中点和冒号的区别](03_Lua中点和冒号的区别.md) - 相关主题：self 参数与闭包
 - [Lua实现面向对象](07_Lua实现面向对象.md) - 相关主题：闭包在面向对象中的应用
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/gcl0u3oh0uzl4upw
+- title：Lua实现闭包
+- note：二级页归档

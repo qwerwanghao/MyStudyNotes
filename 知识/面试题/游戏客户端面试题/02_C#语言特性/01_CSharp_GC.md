@@ -4,16 +4,13 @@ type: knowledge
 date: '2026-04-14'
 status: archived
 tags:
-  - 知识
-  - 面试题
-  - 游戏客户端
-  - C#语言特性
-  - C# GC
+- "知识"
+- "面试题"
+- "游戏客户端"
+- "CSharp语言特性"
+- "CSharp-GC"
 source:
-  - type: yuque
-    url: https://www.yuque.com/wanghao-yciao/dk58gg/kgmymlxazdgpbodg
-    title: C# GC
-    note: 二级页归档
+- "https://www.yuque.com/wanghao-yciao/dk58gg/kgmymlxazdgpbodg"
 related:
   - ./C#语言特性.md
 ---
@@ -357,3 +354,15 @@ using (var resource = new ResourceHolder())
 - [[CSharp语言特性|C#语言特性]] - 父主题索引
 - [装箱拆箱（堆与栈、类和结构体、值类型和引用类型）](03_装箱拆箱.md) - 相关主题：值类型与引用类型
 - [面向对象](02_面向对象.md) - 相关主题：面向对象设计
+
+
+## 来源详情
+
+以下信息保留自原始归档属性；来源信息不代表正文已经完成事实核验。
+
+### 来源 1
+
+- type：yuque
+- url：https://www.yuque.com/wanghao-yciao/dk58gg/kgmymlxazdgpbodg
+- title：C# GC
+- note：二级页归档
